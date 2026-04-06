@@ -7,3 +7,4 @@
 | 3 | To Be Or Not To Be | easy | JavaScript | General | [Link](https://leetcode.com/problems/to-be-or-not-to-be/) | 03-04-26 |
 | 4 | Counter II | easy | JavaScript | Closure | [Link](https://leetcode.com/problems/counter-ii/) | 04-04-26 |
 | 5 | Apply Transform Over Each Element ... | easy | JavaScript | General | [Link](https://leetcode.com/problems/apply-transform-over-each-element-in-array/) | 05-04-26 |
+| 6 | Filter Elements from Array | easy | JavaScript | General | [Link](https://leetcode.com/problems/filter-elements-from-array/) | 06-04-26 |
