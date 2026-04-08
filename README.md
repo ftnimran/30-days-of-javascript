@@ -9,3 +9,4 @@
 | 5 | Apply Transform Over Each Element ... | easy | JavaScript | General | [Link](https://leetcode.com/problems/apply-transform-over-each-element-in-array/) | 05-04-26 |
 | 6 | Filter Elements from Array | easy | JavaScript | General | [Link](https://leetcode.com/problems/filter-elements-from-array/) | 06-04-26 |
 | 7 | Array Reduce Transformation | easy | JavaScript | General | [Link](https://leetcode.com/problems/array-reduce-transformation/) | 07-04-26 |
+| 8 | Function Composition | easy | JavaScript | Basics | [Link](https://leetcode.com/problems/function-composition/) | 08-04-26 |
