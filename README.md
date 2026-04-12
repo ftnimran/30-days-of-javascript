@@ -13,3 +13,4 @@
 | 9 | Return Length of Arguments Passed | easy | JavaScript | General | [Link](https://leetcode.com/problems/return-length-of-arguments-passed/) | 09-04-26 |
 | 10 | Allow One Function Call | easy | JavaScript | Basics | [Link](https://leetcode.com/problems/allow-one-function-call/) | 10-04-26 |
 | 11 | Memoize | medium | JavaScript | General | [Link](https://leetcode.com/problems/memoize/) | 11-04-26 |
+| 12 | Add Two Promises | easy | JavaScript | Promise | [Link](https://leetcode.com/problems/add-two-promises/) | 12-04-26 |
