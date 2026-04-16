@@ -17,3 +17,4 @@
 | 13 | Sleep | easy | JavaScript | General | [Link](https://leetcode.com/problems/sleep/) | 13-04-26 |
 | 14 | Timeout Cancellation | easy | JavaScript | General | [Link](https://leetcode.com/problems/timeout-cancellation/) | 14-04-26 |
 | 15 | Interval Cancellation | easy | JavaScript | General | [Link](https://leetcode.com/problems/interval-cancellation/) | 15-04-26 |
+| 16 | Promise Time Limit | medium | JavaScript | Promise | [Link](https://leetcode.com/problems/promise-time-limit/) | 16-04-26 |
