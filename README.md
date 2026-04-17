@@ -18,3 +18,4 @@
 | 14 | Timeout Cancellation | easy | JavaScript | General | [Link](https://leetcode.com/problems/timeout-cancellation/) | 14-04-26 |
 | 15 | Interval Cancellation | easy | JavaScript | General | [Link](https://leetcode.com/problems/interval-cancellation/) | 15-04-26 |
 | 16 | Promise Time Limit | medium | JavaScript | Promise | [Link](https://leetcode.com/problems/promise-time-limit/) | 16-04-26 |
+| 17 | Cache With Time Limit | medium | JavaScript | General | [Link](https://leetcode.com/problems/cache-with-time-limit/) | 18-04-26 |
