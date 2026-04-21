@@ -22,3 +22,4 @@
 | 18 | Execute Asynchronous Functions in ... | medium | JavaScript | Basics | [Link](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel/) | 18-04-26 |
 | 19 | Is Object Empty | easy | JavaScript | General | [Link](https://leetcode.com/problems/is-object-empty/) | 19-04-26 |
 | 20 | Chunk Array | easy | JavaScript | General | [Link](https://leetcode.com/problems/chunk-array/) | 20-04-26 |
+| 21 | Array Prototype Last | easy | JavaScript | General | [Link](https://leetcode.com/problems/array-prototype-last/) | 21-04-26 |
