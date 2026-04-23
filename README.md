@@ -24,3 +24,4 @@
 | 20 | Chunk Array | easy | JavaScript | General | [Link](https://leetcode.com/problems/chunk-array/) | 20-04-26 |
 | 21 | Array Prototype Last | easy | JavaScript | General | [Link](https://leetcode.com/problems/array-prototype-last/) | 21-04-26 |
 | 22 | Group By | medium | JavaScript | General | [Link](https://leetcode.com/problems/group-by/) | 22-04-26 |
+| 23 | Sort By | easy | JavaScript | General | [Link](https://leetcode.com/problems/sort-by/) | 23-04-26 |
