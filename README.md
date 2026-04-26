@@ -27,3 +27,4 @@
 | 23 | Sort By | easy | JavaScript | General | [Link](https://leetcode.com/problems/sort-by/) | 23-04-26 |
 | 24 | Join Two Arrays by ID | medium | JavaScript | General | [Link](https://leetcode.com/problems/join-two-arrays-by-id/) | 24-04-26 |
 | 25 | Flatten Deeply Nested Array | medium | JavaScript | General | [Link](https://leetcode.com/problems/flatten-deeply-nested-array/) | 25-04-26 |
+| 26 | Compact Object | medium | JavaScript | General | [Link](https://leetcode.com/problems/compact-object/) | 26-04-26 |
