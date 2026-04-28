@@ -29,3 +29,4 @@
 | 25 | Flatten Deeply Nested Array | medium | JavaScript | General | [Link](https://leetcode.com/problems/flatten-deeply-nested-array/) | 25-04-26 |
 | 26 | Compact Object | medium | JavaScript | General | [Link](https://leetcode.com/problems/compact-object/) | 26-04-26 |
 | 27 | Event Emitter | medium | JavaScript | General | [Link](https://leetcode.com/problems/event-emitter/) | 27-04-26 |
+| 28 | Array Wrapper | easy | JavaScript | General | [Link](https://leetcode.com/problems/array-wrapper/) | 28-04-26 |
