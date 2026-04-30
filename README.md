@@ -31,3 +31,4 @@
 | 27 | Event Emitter | medium | JavaScript | General | [Link](https://leetcode.com/problems/event-emitter/) | 27-04-26 |
 | 28 | Array Wrapper | easy | JavaScript | General | [Link](https://leetcode.com/problems/array-wrapper/) | 28-04-26 |
 | 29 | Calculator with Method Chaining | easy | JavaScript | General | [Link](https://leetcode.com/problems/calculator-with-method-chaining/) | 29-04-26 |
+| 30 | Debounce | medium | JavaScript | General | [Link](https://leetcode.com/problems/debounce/) | 30-04-26 |
